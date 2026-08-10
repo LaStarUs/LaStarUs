@@ -1,3 +1,5 @@
+![Catalin Lazar — Front-End Developer](github-profile-banner.png)
+
 # Hi, I’m Catalin Lazar 👋
 
 I’m a Front-End Developer and business-management graduate based in London, building practical web applications that solve genuine operational and business problems.
