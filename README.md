@@ -12,6 +12,8 @@ My projects combine responsive interface design with real-world functionality, i
 
 A responsive workforce-management application inspired by administrative and compliance workflows encountered during my employment at C&W Contracts.
 
+Built with React 18 and Vite, packaged as a single installable web app (PWA) with offline support.
+
 Key functionality:
 
 - Operative profiles and workforce records
@@ -24,12 +26,15 @@ Key functionality:
 - Local browser storage
 - Responsive desktop and mobile interface
 
+![SiteCore dashboard](https://raw.githubusercontent.com/LaStarUs/sitecore-workforce-management/main/sitecore-workforce-management-preview.png)
+
 [Live Demo](https://lastarus.github.io/sitecore-workforce-management/) | [View Repository](https://github.com/LaStarUs/sitecore-workforce-management)
 
 Demo access:
 
 - Administrator: `admin` / `demo1234`
 - Guest: `guest` / `demo1234`
+- Site Manager (view only): `manager` / `demo1234`
 
 ---
 
